@@ -1,3 +1,10 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# ignore data files
 *.pyc
 *.csv
 *.xlsx
