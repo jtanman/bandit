@@ -1,4 +1,4 @@
-# bandit
+# Multi arm bandit
 
 An implementation of multi arm bandits that can handle binomial, normal, and log normal distributions. Supported bandit algorithms include naive bandit (test a certain number of samples/cycles before picking the best one), epsilon greedy, bayesian, and randomization (for testing).
 
